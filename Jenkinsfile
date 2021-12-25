@@ -1,5 +1,5 @@
 pipeline {
-  agent any
+  agent centOS
 
   environment {
     MAJOR_VERSION = 1
